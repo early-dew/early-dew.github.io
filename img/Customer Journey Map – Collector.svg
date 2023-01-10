@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1230" viewBox="0 0 1920 1230">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 200 200">
+      <image width="200" height="200" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <clipPath id="clip-Customer_Journey_Map_Collector">
+      <rect width="1920" height="1230"/>
+    </clipPath>
+  </defs>
+  <g id="Customer_Journey_Map_Collector" data-name="Customer Journey Map – Collector" clip-path="url(#clip-Customer_Journey_Map_Collector)">
+    <rect width="1920" height="1230" fill="#f8f8f8"/>
+    <rect id="Rectangle_147640" data-name="Rectangle 147640" width="1800" height="200" transform="translate(60 180)" fill="none" stroke="#101010" stroke-width="4"/>
+    <rect id="Rectangle_147649" data-name="Rectangle 147649" width="1800" height="401" transform="translate(60 379)" fill="#fff" stroke="#101010" stroke-width="4"/>
+    <g id="Element_-_Slide_Header" data-name="Element - Slide Header">
+      <rect id="area" width="1920" height="180" fill="#fff" opacity="0"/>
+      <text id="Title" transform="translate(60 84)" fill="#101010" font-size="32" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">First-Time User Customer Journey</tspan></text>
+    </g>
+    <text id="PERSONA" transform="translate(271 286)" fill="#101010" font-size="24" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">NFT Collector</tspan></text>
+    <text id="What_stage_is_this_" data-name="What stage is this…" transform="translate(100 493)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Finds the platform </tspan></text>
+    <text id="_-_Write_an_action_here_-_Write_an_action_here_-_Write_an_action_here_" data-name="- Write an action here…
+- Write an action here…
+- Write an action here…" transform="translate(100 641)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="22">- Learns about the product through </tspan><tspan x="0" y="46">friends, search, articles, blog posts</tspan></text>
+    <text id="_-_Write_an_action_here_-_Write_an_action_here_-_Write_an_action_here_2" data-name="- Write an action here…
+- Write an action here…
+- Write an action here…" transform="translate(551 643)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="22">- Check most popular art</tspan><tspan x="0" y="46">- Search for specific categories</tspan><tspan x="0" y="70">- Read how the platform works</tspan><tspan x="0" y="94">- Learn about the company</tspan></text>
+    <text id="_-_Write_an_action_here_-_Write_an_action_here_-_Write_an_action_here_3" data-name="- Write an action here…
+- Write an action here…
+- Write an action here…" transform="translate(1001 661)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Connect wallet</tspan><tspan x="0" y="27">- Explore webapp navigation (side panel)</tspan><tspan x="0" y="54">- Update user profile</tspan></text>
+    <text id="_-_Write_an_action_here_-_Write_an_action_here_-_Write_an_action_here_4" data-name="- Write an action here…
+- Write an action here…
+- Write an action here…" transform="translate(1451 661)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Make an offer/bid</tspan><tspan x="0" y="27">- Navigate NFTs (rearrange, delete, sell)</tspan><tspan x="0" y="54">- See new and current bids/offers</tspan></text>
+    <text id="What_stage_is_this_2" data-name="What stage is this…" transform="translate(551 493)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Looks through the website / </tspan><tspan x="0" y="24">company landing page</tspan></text>
+    <text id="What_stage_is_this_3" data-name="What stage is this…" transform="translate(1001 493)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Gets registered </tspan></text>
+    <text id="What_stage_is_this_4" data-name="What stage is this…" transform="translate(1451 494)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Continues to use website/webapp</tspan></text>
+    <text id="Write_notes_here_" data-name="Write notes here…" transform="translate(551 252)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="22">He has wants to buy digital artworks on Solana </tspan></text>
+    <text id="SCENARIO" transform="translate(551 230)" fill="#101010" font-size="24" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">SCENARIO</tspan></text>
+    <text id="Write_notes_here_2" data-name="Write notes here…" transform="translate(1200 274)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Clear guidelines, self-explanatory navigation </tspan><tspan x="0" y="27">- Ensure the company is legitimate</tspan><tspan x="0" y="54">- Comfortable browsing experience</tspan><tspan x="0" y="81">- Making bids/offers without complications</tspan></text>
+    <text id="USER_GOALS_amp_EXPECTATIONS" data-name="USER GOALS &amp;amp; EXPECTATIONS" transform="translate(1200 230)" fill="#101010" font-size="24" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">USER GOALS &amp; EXPECTATIONS</tspan></text>
+    <line id="Line_38" data-name="Line 38" x2="1798" transform="translate(62 580)" fill="none" stroke="#e0e0e0" stroke-width="4"/>
+    <line id="Line_42" data-name="Line 42" x2="1798" transform="translate(62 780)" fill="none" stroke="#e0e0e0" stroke-width="4"/>
+    <g id="Step_Label_Element" data-name="Step Label Element" transform="translate(100 420)">
+      <g id="step">
+        <rect id="background_color_fill_" data-name="background [color_fill]" width="40" height="40" rx="12" fill="#ffd86f"/>
+        <text id="label" transform="translate(12.016 25)" fill="#101010" font-size="16" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">01</tspan></text>
+      </g>
+      <text id="label-2" data-name="label" transform="translate(60 27)" fill="#101010" font-size="24" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Awareness</tspan></text>
+    </g>
+    <g id="Step_Label_Element-2" data-name="Step Label Element" transform="translate(551 420)">
+      <g id="step-2" data-name="step">
+        <rect id="background_color_fill_2" data-name="background [color_fill]" width="40" height="40" rx="12" fill="#ffac80"/>
+        <text id="label-3" data-name="label" transform="translate(10.808 25)" fill="#101010" font-size="16" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">02</tspan></text>
+      </g>
+      <text id="label-4" data-name="label" transform="translate(60 27)" fill="#101010" font-size="24" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Consideration</tspan></text>
+    </g>
+    <g id="Step_Label_Element-3" data-name="Step Label Element" transform="translate(1001 420)">
+      <g id="step-3" data-name="step">
+        <rect id="background_color_fill_3" data-name="background [color_fill]" width="40" height="40" rx="12" fill="#7ee1ff"/>
+        <text id="label-5" data-name="label" transform="translate(10.752 25)" fill="#101010" font-size="16" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">03</tspan></text>
+      </g>
+      <text id="label-6" data-name="label" transform="translate(60 27)" fill="#101010" font-size="24" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Conversion</tspan></text>
+    </g>
+    <g id="Step_Label_Element-4" data-name="Step Label Element" transform="translate(1451 421)">
+      <g id="step-4" data-name="step">
+        <rect id="background_color_fill_4" data-name="background [color_fill]" width="40" height="40" rx="12" fill="#ff80ac"/>
+        <text id="label-7" data-name="label" transform="translate(10.6 25)" fill="#101010" font-size="16" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">04</tspan></text>
+      </g>
+      <text id="label-8" data-name="label" transform="translate(60 27)" fill="#101010" font-size="24" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Loyalty</tspan></text>
+    </g>
+    <text id="Label-9" data-name="Label" transform="translate(100 623)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Doing</tspan></text>
+    <text id="Label-10" data-name="Label" transform="translate(551 623)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Doing</tspan></text>
+    <text id="Label-11" data-name="Label" transform="translate(1001 623)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Doing</tspan></text>
+    <text id="Label-12" data-name="Label" transform="translate(1451 623)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Doing</tspan></text>
+    <line id="Line_39" data-name="Line 39" y2="397" transform="translate(510.5 381.5)" fill="none" stroke="#e0e0e0" stroke-width="4"/>
+    <line id="Line_40" data-name="Line 40" y2="398.5" transform="translate(960.5 381.5)" fill="none" stroke="#e0e0e0" stroke-width="4"/>
+    <line id="Line_41" data-name="Line 41" y2="400" transform="translate(1410.5 380)" fill="none" stroke="#e0e0e0" stroke-width="4"/>
+    <g id="Thumbnail_Element" data-name="Thumbnail Element" transform="translate(100 220)">
+      <circle id="drop_area" data-name="drop area" cx="60" cy="60" r="60" stroke="#101010" stroke-width="4" fill="url(#pattern)"/>
+    </g>
+    <rect id="Rectangle_147650" data-name="Rectangle 147650" width="1800" height="200" transform="translate(60 779)" fill="#fff" stroke="#101010" stroke-width="4"/>
+    <rect id="Rectangle_147650-2" data-name="Rectangle 147650" width="1800" height="200" transform="translate(60 978)" fill="#fff" stroke="#101010" stroke-width="4"/>
+    <text id="Label-13" data-name="Label" transform="translate(551 822)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">OPPORTUNITIES</tspan></text>
+    <text id="Label-14" data-name="Label" transform="translate(551 1031)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">TOUCHPOINTS</tspan></text>
+    <text id="Label-15" data-name="Label" transform="translate(998 822)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">OPPORTUNITIES</tspan></text>
+    <text id="Label-16" data-name="Label" transform="translate(998 1031)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">TOUCHPOINTS</tspan></text>
+    <text id="Label-17" data-name="Label" transform="translate(1453 822)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">OPPORTUNITIES</tspan></text>
+    <text id="Label-18" data-name="Label" transform="translate(1453 1031)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">TOUCHPOINTS</tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(100 860)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Social media presence</tspan><tspan x="0" y="27">- Post articles about the platform</tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_2" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(100 1069)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Marketplace website</tspan><tspan x="0" y="27">- Company landing page</tspan><tspan x="0" y="54">- Discord, Medium, Google</tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_3" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(551 847)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="22">- Most relevant NFTs on homepage</tspan><tspan x="0" y="49">- Easy to use art filtering options</tspan><tspan x="0" y="76">- Onboarding information</tspan><tspan x="0" y="103">- Sufficient company related data </tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_4" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(551 1069)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Marketplace website</tspan><tspan x="0" y="27">- Company landing page</tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_5" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(998 847)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="22">- Registration by connecting wallet</tspan><tspan x="0" y="49">- Clear navigation within the webapp and </tspan><tspan x="0" y="76">b/w the webapp and the website</tspan><tspan x="0" y="103">- Easy to adjust settings page/ profile</tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_6" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(998 1056)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="22">- Marketplace website</tspan><tspan x="0" y="49">- Web application</tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_7" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(1453 860)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Notifications about new bids/offers</tspan><tspan x="0" y="27">- Dashboard with purchased NFTs</tspan><tspan x="0" y="54">- See NFT trends and past activity</tspan><tspan x="0" y="81">- Have an overview of current bids/offers</tspan></text>
+    <text id="_-_Write_a_note_here_-_Write_a_note_here_-_Write_a_note_here_8" data-name="- Write a note here…
+- Write a note here…
+- Write a note here…" transform="translate(1453 1069)" fill="#101010" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">- Marketplace website</tspan><tspan x="0" y="27">- Web application</tspan></text>
+    <text id="Label-19" data-name="Label" transform="translate(100 822)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">OPPORTUNITIES</tspan></text>
+    <text id="Label-20" data-name="Label" transform="translate(100 1031)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">TOUCHPOINTS</tspan></text>
+  </g>
+</svg>
