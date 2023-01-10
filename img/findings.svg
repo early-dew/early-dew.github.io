@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1121.5" height="740.936" viewBox="0 0 1121.5 740.936">
+  <defs>
+    <filter id="Rectangle_2168" x="27.5" y="95.419" width="304" height="272" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2169" x="27.5" y="412.419" width="304" height="267" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2170" x="752.5" y="320.419" width="346" height="191" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2171" x="775.5" y="68.419" width="346" height="188" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2172" x="382.5" y="56.419" width="346" height="229" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2173" x="378.5" y="530.419" width="346" height="191" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2175" x="378.5" y="333.419" width="346" height="156" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2174" x="765.5" y="573.419" width="346" height="135" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_723" data-name="Group 723" transform="translate(-404 -1087.581)">
+    <path id="Path_2957" data-name="Path 2957" d="M-19989.947,12573.054s-55.146,618.087,61,640.339,122.012-704.939,222.906-683.578-71.562,689.808,97.375,697.818,181.842-737.871,294.469-737.871,178.324,737.871,178.324,737.871" transform="translate(20555 -11400.681)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="10" opacity="0.16"/>
+    <g transform="matrix(1, 0, 0, 1, 404, 1087.58)" filter="url(#Rectangle_2168)">
+      <g id="Rectangle_2168-2" data-name="Rectangle 2168" transform="translate(30.5 97.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+        <rect width="298" height="266" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="297" height="265" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 404, 1087.58)" filter="url(#Rectangle_2169)">
+      <g id="Rectangle_2169-2" data-name="Rectangle 2169" transform="translate(30.5 414.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+        <rect width="298" height="261" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="297" height="260" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 404, 1087.58)" filter="url(#Rectangle_2170)">
+      <g id="Rectangle_2170-2" data-name="Rectangle 2170" transform="translate(755.5 322.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+        <rect width="340" height="185" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="339" height="184" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 404, 1087.58)" filter="url(#Rectangle_2171)">
+      <g id="Rectangle_2171-2" data-name="Rectangle 2171" transform="translate(778.5 70.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+        <rect width="340" height="182" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="339" height="181" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 404, 1087.58)" filter="url(#Rectangle_2172)">
+      <g id="Rectangle_2172-2" data-name="Rectangle 2172" transform="translate(385.5 58.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+        <rect width="340" height="223" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="339" height="222" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 404, 1087.58)" filter="url(#Rectangle_2173)">
+      <g id="Rectangle_2173-2" data-name="Rectangle 2173" transform="translate(381.5 532.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+        <rect width="340" height="185" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="339" height="184" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 404, 1087.58)" filter="url(#Rectangle_2175)">
+      <g id="Rectangle_2175-2" data-name="Rectangle 2175" transform="translate(381.5 335.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+        <rect width="340" height="150" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="339" height="149" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Extraverts_have_a_larger_friend_circle_but_have_the_same_total_number_of_close_friends_as_introverts" data-name="Extraverts have a larger friend circle but have the same total number of close friends as introverts" transform="translate(472.965 1227.494)" fill="#343434" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">Extraverts have a </tspan><tspan x="0" y="60">larger friend circle </tspan><tspan x="0" y="96">but have the same </tspan><tspan x="0" y="132">total number of close </tspan><tspan x="0" y="168">friends as introverts</tspan></text>
+    <text id="Maintaining_social_commitments_require_much_emotional_recourses_and_additional_quality_time" data-name="Maintaining social commitments require much emotional recourses and additional quality time" transform="translate(467.965 1544.494)" fill="#343434" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">Maintaining social </tspan><tspan x="0" y="60">commitments require </tspan><tspan x="0" y="96">much emotional </tspan><tspan x="0" y="132">recourses and </tspan><tspan x="0" y="168">additional quality time</tspan></text>
+    <text id="_10_of_men_and_12_of_women_use_Tinder_in_hopes_of_making_friends" data-name="10% of men and 12% of women use Tinder in hopes of making friends" transform="translate(1210.5 1454.465)" fill="#343434" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">10% of men and 12% of </tspan><tspan x="0" y="60">women use Tinder in </tspan><tspan x="0" y="96">hopes of making friends</tspan></text>
+    <text id="Every_third_millennial_says_he_often_or_always_feel_lonely" data-name="Every third millennial says he often or always feel lonely" transform="translate(1235.5 1198.086)" fill="#343434" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">Every third millennial </tspan><tspan x="0" y="59">says he often or </tspan><tspan x="0" y="94">always feel lonely</tspan></text>
+    <text id="Women_and_men_follow_different_patterns_in_friendships_-_a_face_to_face_and_side_by_side_" data-name="Women and men follow different patterns in friendships - a  „face to face“ and „side by side“" transform="translate(837.5 1186.086)" fill="#343434" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">Women and men follow </tspan><tspan x="0" y="60">different patterns in </tspan><tspan x="0" y="96" xml:space="preserve">friendships - a  „face to </tspan><tspan x="0" y="132">face“ and „side by side“</tspan></text>
+    <text id="Women_were_not_found_to_have_more_friends_than_men_do" data-name="Women were not found to have more friends than men do" transform="translate(847.465 1656.494)" fill="#343434" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">Women were not </tspan><tspan x="0" y="60">found to have more </tspan><tspan x="0" y="96">friends than men do</tspan></text>
+    <text id="Number_of_friends_falls_steadily_after_the_age_of_25" data-name="Number of friends falls steadily after the age of 25" transform="translate(821.5 1466)" fill="#343434" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">Number of friends falls </tspan><tspan x="0" y="60">steadily after the age of 25</tspan></text>
+    <g id="Ellipse_653" data-name="Ellipse 653" transform="translate(759 1116)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+      <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+      <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+    </g>
+    <g id="Ellipse_666" data-name="Ellipse 666" transform="translate(1155 1129)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+      <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+      <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+    </g>
+    <g id="Ellipse_667" data-name="Ellipse 667" transform="translate(1129 1387)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+      <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+      <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+    </g>
+    <g id="Ellipse_665" data-name="Ellipse 665" transform="translate(759 1602)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+      <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+      <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+    </g>
+    <g id="Group_694" data-name="Group 694" transform="translate(248 -459)">
+      <g id="Ellipse_652" data-name="Ellipse 652" transform="translate(157 1608)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+        <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+        <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(181 1654)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Regular, Barlow"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g id="Group_708" data-name="Group 708" transform="translate(257 1)">
+      <g id="Ellipse_655" data-name="Ellipse 655" transform="translate(502 1392)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+        <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+        <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+      </g>
+      <text id="_4" data-name="4" transform="translate(523 1435)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Regular, Barlow"><tspan x="0" y="0">4</tspan></text>
+    </g>
+    <text id="_5" data-name="5" transform="translate(780 1645)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Regular, Barlow"><tspan x="0" y="0">5</tspan></text>
+    <text id="_3" data-name="3" transform="translate(780 1159)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0">3</tspan></text>
+    <text id="_6" data-name="6" transform="translate(1176 1172)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0">6</tspan></text>
+    <text id="_7" data-name="7" transform="translate(1150 1430)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0">7</tspan></text>
+    <g id="Group_711" data-name="Group 711" transform="translate(270 19)">
+      <g id="Group_710" data-name="Group 710">
+        <g transform="matrix(1, 0, 0, 1, 134, 1068.58)" filter="url(#Rectangle_2174)">
+          <g id="Rectangle_2174-2" data-name="Rectangle 2174" transform="translate(768.5 575.42)" fill="#f9f9f9" stroke="rgba(200,197,197,0.23)" stroke-width="1">
+            <rect width="340" height="129" rx="2" stroke="none"/>
+            <rect x="0.5" y="0.5" width="339" height="128" rx="1.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Shyness_is_the_top_obstacle_to_find_friends" data-name="Shyness is the top obstacle to find friends" transform="translate(953.217 1671.357)" fill="#343434" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="24" font-family="Barlow-Regular, Barlow"><tspan x="0" y="24">Shyness is the top </tspan><tspan x="0" y="60">obstacle to find friends</tspan></text>
+      </g>
+      <g id="Group_709" data-name="Group 709">
+        <g id="Ellipse_668" data-name="Ellipse 668" transform="translate(872 1614)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+          <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+          <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+        </g>
+        <text id="_8" data-name="8" transform="translate(893 1657)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0">8</tspan></text>
+      </g>
+    </g>
+    <g id="Group_707" data-name="Group 707" transform="translate(257 -51)">
+      <g id="Group_706" data-name="Group 706">
+        <g id="Ellipse_654" data-name="Ellipse 654" transform="translate(147 1530)" fill="#f9f9f9" stroke="#c4c4c4" stroke-width="1">
+          <circle cx="30.5" cy="30.5" r="30.5" stroke="none"/>
+          <circle cx="30.5" cy="30.5" r="30" fill="none"/>
+        </g>
+      </g>
+      <text id="_2" data-name="2" transform="translate(168 1574)" fill="#2c94e2" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="37" font-family="Barlow-Regular, Barlow"><tspan x="0" y="0">2</tspan></text>
+    </g>
+  </g>
+</svg>

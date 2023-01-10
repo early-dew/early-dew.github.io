@@ -1,0 +1,279 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2708" height="1215" viewBox="0 0 2708 1215">
+  <defs>
+    <clipPath id="clip-Flow_Chart_-_Registration">
+      <rect width="2708" height="1215"/>
+    </clipPath>
+  </defs>
+  <g id="Flow_Chart_-_Registration" data-name="Flow Chart - Registration" clip-path="url(#clip-Flow_Chart_-_Registration)">
+    <rect width="2708" height="1215" fill="#f8f8f8"/>
+    <g id="Element_-_Slide_Header" data-name="Element - Slide Header">
+      <rect id="area" width="1409" height="180" fill="#fff" opacity="0"/>
+      <text id="Title" transform="translate(60 84)" fill="#101010" font-size="32" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Flow Chart - Registration</tspan></text>
+    </g>
+    <g id="Group_52426" data-name="Group 52426" transform="translate(8 19)">
+      <line id="line_color_border_" data-name="line [color_border]" y2="262" transform="translate(1626 219)" fill="none" stroke="#101010" stroke-width="3.5"/>
+      <g id="Flowchart_Connector_-_Straight_-_Element" data-name="Flowchart Connector - Straight - Element" transform="translate(252 505)">
+        <g id="Element_-_Flowchart_connector_Straight_r_" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_2" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#ffd86f" stroke-width="3.5"/>
+          <g id="arrow_head" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_3" data-name="line [color_border]" x2="10" fill="none" stroke="#ffd86f" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_4" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#ffd86f" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-2" data-name="Flowchart Connector - Straight - Element" transform="translate(552 505)">
+        <g id="Element_-_Flowchart_connector_Straight_r_2" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_5" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-2" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_6" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_7" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Turn_-_Element" data-name="Flowchart Connector - Turn - Element" transform="translate(631 321.858)">
+        <path id="line_color_border_8" data-name="line [color_border]" d="M489,100H389V200" transform="translate(200 -381.858) rotate(90)" fill="none" stroke="#ff80ac" stroke-width="3.5"/>
+        <g id="arrow_head-3" data-name="arrow head" transform="translate(14.143 7.071) rotate(135)">
+          <line id="line_color_border_9" data-name="line [color_border]" x2="10" transform="translate(0 10)" fill="none" stroke="#ff80ac" stroke-linecap="round" stroke-width="3.5"/>
+          <line id="line_color_border_10" data-name="line [color_border]" y1="10" transform="translate(10)" fill="none" stroke="#ff80ac" stroke-linecap="round" stroke-width="3.5"/>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Turn_-_Element-2" data-name="Flowchart Connector - Turn - Element" transform="translate(449 326.699)">
+        <path id="line_color_border_11" data-name="line [color_border]" d="M482,100H389V247.741" transform="translate(-382 -97.741)" fill="none" stroke="#ff80ac" stroke-width="3.5"/>
+        <g id="arrow_head-4" data-name="arrow head" transform="translate(14.143 142.929) rotate(135)">
+          <line id="line_color_border_12" data-name="line [color_border]" x2="10" fill="none" stroke="#ff80ac" stroke-linecap="round" stroke-width="3.5"/>
+          <line id="line_color_border_13" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#ff80ac" stroke-linecap="round" stroke-width="3.5"/>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Turn_-_Element-3" data-name="Flowchart Connector - Turn - Element" transform="translate(1529.822 643.35) rotate(-90)">
+        <path id="line_color_border_14" data-name="line [color_border]" d="M207.818-50.65H0V100" transform="translate(0 100) rotate(-90)" fill="none" stroke="#000" stroke-width="3.5"/>
+        <g id="arrow_head-5" data-name="arrow head" transform="translate(92.929 92.858) rotate(45)">
+          <line id="line_color_border_15" data-name="line [color_border]" x2="10" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+          <line id="line_color_border_16" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Turn_-_Element-4" data-name="Flowchart Connector - Turn - Element" transform="translate(1842.818 916.156) rotate(90)">
+        <path id="line_color_border_17" data-name="line [color_border]" d="M848.2-28.928H0V150.65" transform="translate(0 207.818) rotate(-90)" fill="none" stroke="#ff80ac" stroke-width="3.5"/>
+        <g id="arrow_head-6" data-name="arrow head" transform="translate(143.579 200.676) rotate(45)">
+          <line id="line_color_border_18" data-name="line [color_border]" x2="10" transform="translate(0 0)" fill="none" stroke="#ff80ac" stroke-linecap="round" stroke-width="3.5"/>
+          <line id="line_color_border_19" data-name="line [color_border]" y2="10" transform="translate(10 0)" fill="none" stroke="#ff80ac" stroke-linecap="round" stroke-width="3.5"/>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Turn_-_Element-5" data-name="Flowchart Connector - Turn - Element" transform="translate(732 591)">
+        <path id="line_color_border_20" data-name="line [color_border]" d="M100,0H0V181.535" transform="translate(0 100) rotate(-90)" fill="none" stroke="#000" stroke-width="3.5"/>
+        <g id="arrow_head-7" data-name="arrow head" transform="translate(173.929 92.858) rotate(45)">
+          <line id="line_color_border_21" data-name="line [color_border]" x2="10" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+          <line id="line_color_border_22" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3.5"/>
+        </g>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element" data-name="Flowchart Block - Status - Element" transform="translate(52 481)">
+        <rect id="background_color_border_" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#ffd86f" stroke-width="3"/>
+        <text id="Start" transform="translate(76.84 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Start</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element-2" data-name="Flowchart Block - Status - Element" transform="translate(1528 1071)">
+        <rect id="background_color_border_2" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#26ccbf" stroke-width="3"/>
+        <text id="Get_out" data-name="Get out" transform="translate(99.53 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-17.563" y="0">End</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Decision_-_Element" data-name="Flowchart Block - Decision - Element" transform="translate(652.193 431.194)">
+        <rect id="background_color_border_3" data-name="background [color_border]" width="113" height="113" transform="translate(80.21 0.306) rotate(45)" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label" transform="translate(38.807 66.806)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-40.078" y="22">Sign up?</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Decision_-_Element-2" data-name="Flowchart Block - Decision - Element" transform="translate(2459.791 806.694)">
+        <rect id="background_color_border_4" data-name="background [color_border]" width="113" height="113" transform="translate(80.21 0.306) rotate(45)" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-2" data-name="label" transform="translate(38.807 67.806)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="6.886" y="22">Create?</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element" data-name="Flowchart Block - Action - Element" transform="translate(352 481)">
+        <rect id="background_color_border_5" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-3" data-name="label" transform="translate(43.49 36)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Homepage</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-2" data-name="Flowchart Block - Action - Element" transform="translate(549 301)">
+        <rect id="background_color_border_6" data-name="background [color_border]" width="80" height="60" fill="#fff" stroke="#ff80ac" stroke-width="3"/>
+        <text id="label-4" data-name="label" transform="translate(26.76 37)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">No</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-3" data-name="Flowchart Block - Action - Element" transform="translate(2255 857)">
+        <rect id="background_color_border_7" data-name="background [color_border]" width="80" height="60" fill="#fff" stroke="#ff80ac" stroke-width="3"/>
+        <text id="label-5" data-name="label" transform="translate(26.76 37)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">No</tspan></text>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-3" data-name="Flowchart Connector - Straight - Element" transform="translate(1423 504)">
+        <g id="Element_-_Flowchart_connector_Straight_r_3" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_23" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-8" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_24" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_25" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-4" data-name="Flowchart Block - Action - Element" transform="translate(1526 481)">
+        <rect id="background_color_border_8" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-6" data-name="label" transform="translate(100.49 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-64.297" y="0">List of wallets</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-5" data-name="Flowchart Block - Action - Element" transform="translate(1526 401)">
+        <rect id="background_color_border_9" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-7" data-name="label" transform="translate(100.49 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.525" y="0">Wallet 4</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-6" data-name="Flowchart Block - Action - Element" transform="translate(1526 321)">
+        <rect id="background_color_border_10" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-8" data-name="label" transform="translate(99.49 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.525" y="0">Wallet 3</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-7" data-name="Flowchart Block - Action - Element" transform="translate(1526 241)">
+        <rect id="background_color_border_11" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-9" data-name="label" transform="translate(100.49 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.525" y="0">Wallet 2</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-8" data-name="Flowchart Block - Action - Element" transform="translate(1526 161)">
+        <rect id="background_color_border_12" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-10" data-name="label" transform="translate(100.49 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.525" y="0">Wallet 1</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-9" data-name="Flowchart Block - Action - Element" transform="translate(916 482)">
+        <rect id="background_color_border_13" data-name="background [color_border]" width="200" height="60" transform="translate(0.5 0.5)" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-11" data-name="label" transform="translate(20 4)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.813" y="22">&apos;Connect Wallet&apos; </tspan><tspan x="47.842" y="46">button</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-10" data-name="Flowchart Block - Action - Element" transform="translate(917 664)">
+        <rect id="background_color_border_14" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-12" data-name="label" transform="translate(93.49 36)" fill="#101010" font-size="20" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="-68.14" y="0">&apos;Create&apos; button</tspan></text>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-4" data-name="Flowchart Connector - Straight - Element" transform="translate(812.307 503.929)">
+        <g id="Element_-_Flowchart_connector_Straight_r_4" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_26" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-9" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_27" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_28" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-5" data-name="Flowchart Connector - Straight - Element" transform="translate(1117.693 503.929)">
+        <g id="Element_-_Flowchart_connector_Straight_r_5" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_29" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-10" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_30" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_31" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element-3" data-name="Flowchart Block - Status - Element" transform="translate(1221 481)">
+        <rect id="background_color_border_15" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="Register" transform="translate(100 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.959" y="0">Select</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element-4" data-name="Flowchart Block - Status - Element" transform="translate(1221 664)">
+        <rect id="background_color_border_16" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="Register-2" data-name="Register" transform="translate(100 35)" fill="#101010" font-size="20" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="-29.4" y="0">Select</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element-5" data-name="Flowchart Block - Status - Element" transform="translate(1832 481)">
+        <rect id="background_color_border_17" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="Register-3" data-name="Register" transform="translate(100 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.297" y="0">Choose</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element-6" data-name="Flowchart Block - Status - Element" transform="translate(2440 481)">
+        <rect id="background_color_border_18" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="Register-4" data-name="Register" transform="translate(100 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.247" y="0">Confirm</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element-7" data-name="Flowchart Block - Status - Element" transform="translate(2440 1071)">
+        <rect id="background_color_border_19" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="Register-5" data-name="Register" transform="translate(100 39)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.134" y="0">Accept</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Status_-_Element-8" data-name="Flowchart Block - Status - Element" transform="translate(1831 1071)">
+        <rect id="background_color_border_20" data-name="background [color_border]" width="200" height="60" rx="30" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="Register-6" data-name="Register" transform="translate(100 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-69.028" y="0">Fill in and save</tspan></text>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-6" data-name="Flowchart Connector - Straight - Element" transform="translate(1728 504)">
+        <g id="Element_-_Flowchart_connector_Straight_r_6" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_32" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-11" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_33" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_34" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-11" data-name="Flowchart Block - Action - Element" transform="translate(2137 481)">
+        <rect id="background_color_border_21" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-13" data-name="label" transform="translate(99.49 38)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-78.984" y="0">Success Message</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-12" data-name="Flowchart Block - Action - Element" transform="translate(2135 1071)">
+        <rect id="background_color_border_22" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-14" data-name="label" transform="translate(99.49 39)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-56.606" y="0">Profile Page</tspan></text>
+      </g>
+      <g id="Flowchart_Block_-_Action_-_Element-13" data-name="Flowchart Block - Action - Element" transform="translate(2440 645)">
+        <rect id="background_color_border_23" data-name="background [color_border]" width="200" height="60" fill="#fff" stroke="#101010" stroke-width="3"/>
+        <text id="label-15" data-name="label" transform="translate(15)" fill="#101010" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="20.977" y="22">Create profile </tspan><tspan x="33.462" y="46">suggestion</tspan></text>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-7" data-name="Flowchart Connector - Straight - Element" transform="translate(2034 504)">
+        <g id="Element_-_Flowchart_connector_Straight_r_7" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_35" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-12" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_36" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_37" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-8" data-name="Flowchart Connector - Straight - Element" transform="translate(1117.693 686.929)">
+        <g id="Element_-_Flowchart_connector_Straight_r_8" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_38" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-13" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_39" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_40" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-9" data-name="Flowchart Connector - Straight - Element" transform="translate(2337 504)">
+        <g id="Element_-_Flowchart_connector_Straight_r_9" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_41" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-14" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_42" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_43" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-10" data-name="Flowchart Connector - Straight - Element" transform="translate(2339 1093.929)">
+        <g id="Element_-_Flowchart_connector_Straight_r_10" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_44" data-name="line [color_border]" x1="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-15" data-name="arrow head" transform="translate(14.142 7.071) rotate(135)">
+            <line id="line_color_border_45" data-name="line [color_border]" x2="10" transform="translate(0 10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_46" data-name="line [color_border]" y1="10" transform="translate(10 0)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-11" data-name="Flowchart Connector - Straight - Element" transform="translate(2035 1093.929)">
+        <g id="Element_-_Flowchart_connector_Straight_r_11" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_47" data-name="line [color_border]" x1="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-16" data-name="arrow head" transform="translate(14.142 7.071) rotate(135)">
+            <line id="line_color_border_48" data-name="line [color_border]" x2="10" transform="translate(0 10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_49" data-name="line [color_border]" y1="10" transform="translate(10 0)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-12" data-name="Flowchart Connector - Straight - Element" transform="translate(1730 1093.929)">
+        <g id="Element_-_Flowchart_connector_Straight_r_12" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_50" data-name="line [color_border]" x1="100" transform="translate(0 7)" fill="none" stroke="#26ccbf" stroke-width="3.5"/>
+          <g id="arrow_head-17" data-name="arrow head" transform="translate(14.142 7.071) rotate(135)">
+            <line id="line_color_border_51" data-name="line [color_border]" x2="10" transform="translate(0 10)" fill="none" stroke="#26ccbf" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_52" data-name="line [color_border]" y1="10" transform="translate(10 0)" fill="none" stroke="#26ccbf" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-13" data-name="Flowchart Connector - Straight - Element" transform="translate(2547.072 541) rotate(90)">
+        <g id="Element_-_Flowchart_connector_Straight_r_13" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_53" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-18" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_54" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_55" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-14" data-name="Flowchart Connector - Straight - Element" transform="translate(2547.072 704) rotate(90)">
+        <g id="Element_-_Flowchart_connector_Straight_r_14" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_56" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-19" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_57" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_58" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Flowchart_Connector_-_Straight_-_Element-15" data-name="Flowchart Connector - Straight - Element" transform="translate(2547.07 967.806) rotate(90)">
+        <g id="Element_-_Flowchart_connector_Straight_r_15" data-name="Element - Flowchart connector [Straight r]" opacity="0.996">
+          <line id="line_color_border_59" data-name="line [color_border]" x2="100" transform="translate(0 7)" fill="none" stroke="#101010" stroke-width="3.5"/>
+          <g id="arrow_head-20" data-name="arrow head" transform="translate(92.929) rotate(45)">
+            <line id="line_color_border_60" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+            <line id="line_color_border_61" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
