@@ -23,7 +23,7 @@ Variables
   --btn-spacing: 0.12rem;
   --radius: 0.25rem;
   --transition: all 0.3s linear;
-  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  /* --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); */
 }
 /*
 =============== 
@@ -204,7 +204,7 @@ About section - S
 .cv-img {
   display: flex;
   justify-content: center;
-  background-image: url(./img/bg-icircle.svg);
+
   background-repeat: no-repeat;
 }
 
@@ -249,9 +249,15 @@ Single projects - S
   background: url(./img/nft.png) center/cover no-repeat;
 }
 
+/* .project-spec {
+  display: grid;
+  grid-row: auto;
+  grid-column-gap: 1rem;
+} */
 .project-spec {
   display: grid;
-  grid-row: 1auto;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: auto auto auto auto auto;
   grid-column-gap: 1rem;
 }
 
@@ -299,7 +305,6 @@ Single projects - S
 }
 .img48 {
   max-width: 100%;
-  min-width: 100px;
 }
 
 article h4 {
@@ -308,6 +313,7 @@ article h4 {
 
 article {
   margin-top: 3rem;
+  overflow: hidden;
 }
 
 .article-img {
@@ -464,7 +470,7 @@ Modal -S
 }
 
 .img80 {
-  max-width: 80%;
+  max-width: 100%;
 }
 .margin-space {
   margin-top: 2rem;
@@ -642,6 +648,7 @@ Single projects - M
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: var(--btn-spacing);
+  border: none;
 }
 .btn:hover {
   opacity: 0.8;
@@ -775,6 +782,7 @@ About section - L
   .cv-img {
     order: 2;
     align-items: flex-start;
+    background-image: url(./img/bg-icircle.svg);
   }
   .cv-container,
   .certificates {
@@ -863,6 +871,10 @@ nav {
 .show-links {
   height: 6rem;
 }
+
+/* .img80 {
+  max-width: 90%;
+} */
 
 @media screen and (min-width: 800px) {
   .nav-center {
