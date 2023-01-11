@@ -23,13 +23,13 @@ linksContainer.classList.remove('show-links')
 window.addEventListener('scroll', function(){
   if(this.window.innerWidth < 800 && window.scrollY > 200){
     quoteOne.classList.add('slideUp')
-  }else if (window.scrollY >= 650) {quoteOne.classList.add('slideUp')}
+  }else if (window.scrollY >= 550) {quoteOne.classList.add('slideUp')}
      })
 
      window.addEventListener('scroll', function(){
   if(this.window.innerWidth < 800 && window.scrollY > 1700){
     quoteTwo.classList.add('slideUp')
-  }else if (window.scrollY >= 2400) {quoteTwo.classList.add('slideUp')}
+  }else if (window.scrollY >= 2100) {quoteTwo.classList.add('slideUp')}
      })
 
 
