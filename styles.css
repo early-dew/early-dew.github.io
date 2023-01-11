@@ -213,9 +213,14 @@ About section - S
 }
 
 .certificates {
+  margin-top: 4rem;
   display: column;
   grid-template-rows: 1fr 1fr;
   row-gap: 2rem;
+}
+
+.cv-list {
+  margin-top: 2rem;
 }
 
 .certificates-container {
@@ -240,7 +245,7 @@ About section - S
 .job-image {
   display: flex;
   justify-content: center;
-  margin: 4rem 0 2rem 0;
+  margin: 1.5rem 0 1rem 0;
 }
 
 /*
@@ -816,8 +821,8 @@ About section - L
 
   .job-image {
     display: flex;
-    justify-content: center;
-    margin: 4rem 0 2rem 0;
+    justify-content: flex-start;
+    margin: 2.5rem 0 2rem 0;
   }
   /* final gallery L */
 
