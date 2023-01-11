@@ -27,7 +27,7 @@ window.addEventListener('scroll', function(){
      })
 
      window.addEventListener('scroll', function(){
-  if(this.window.innerWidth < 800 && window.scrollY > 2000){
+  if(this.window.innerWidth < 800 && window.scrollY > 1700){
     quoteTwo.classList.add('slideUp')
   }else if (window.scrollY >= 2400) {quoteTwo.classList.add('slideUp')}
      })
